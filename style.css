@@ -1,0 +1,79 @@
+#main {
+    width: 50vw;
+    min-width: 400px;
+    margin: auto;
+    text-align: center;
+}
+
+form input {
+    margin: 10px 0;
+    height: 40px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    text-indent: 10px;
+}
+
+.half {
+    width: 40%;
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+
+.full {
+    float: left;
+    width: 99%;
+}
+
+button {
+    height: 40px;
+    border-radius: 5px;
+}
+
+#reg-btn {
+    color: white;
+    background-color: cornflowerblue;
+    border: none;
+}
+
+#sign-in-btn {
+    color: white;
+    background-color:darkcyan;
+    border: none;
+}
+
+#checkbox {
+    text-align: left;
+    margin: 0;
+    width: 30%;
+}
+
+#checkbox input {
+    vertical-align: middle;
+    margin: 0 10px 0 0;
+    height: 35px;
+}
+
+#terms {
+    text-align: left;
+    width: 70%;
+    height: 35px;
+    font-size: 0.5em;
+}
+
+a {
+    color: cornflowerblue;
+    text-decoration: none;
+}
+
+#reg-btn-in-text {
+    display: inline;
+    background-color: cornflowerblue;
+    color: white;
+    border-radius: 5px;
+}
